@@ -1,3 +1,5 @@
+![My Profile Image](Preview.png)
+
 # 👋 Hi, I'm Roman!
 
 ## 🚀 Web Full-Stack Architect
@@ -12,11 +14,11 @@ I develop high-performance, scalable web platforms and sites that grow along wit
 
 ### 🛠️ My technology stack:
 
-**Frontend:** React, Next.js, JavaScript/TypeScript, HTML/CSS  
-**Backend:** Node.js, Express, MongoDB, REST/GraphQL API  
-**DevOps:** Linux server administration, Nginx, Docker  
-**Cloud services:** Google Cloud Platform, Firebase, Cloudinary  
-**Communication:** WebSockets, external API integrations, OAuth
+* **Frontend:** React, Next.js, JavaScript/TypeScript, HTML/CSS  
+* **Backend:** Node.js, Express, MongoDB, REST/GraphQL API  
+* **DevOps:** Linux server administration, Nginx, Docker  
+* **Cloud services:** Google Cloud Platform, Firebase, Cloudinary  
+* **Communication:** WebSockets, external API integrations, OAuth
 
 ### 🔥 Current projects:
 
