@@ -1,8 +1,6 @@
 ![My Profile Image](Preview.png)
 
-# 👋 Hi, I'm Roman!
-
-## 🚀 Web Full-Stack Architect
+# 👋 Hi, I'm Roman! Web Full-Stack Architect
 
 I develop high-performance, scalable web platforms and sites that grow along with your business. I have deep expertise in creating full-stack web solutions that optimize business processes and provide technological advantage.
 
