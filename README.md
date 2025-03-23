@@ -35,7 +35,7 @@ I develop high-performance, scalable web platforms and sites that grow along wit
 ### 📫 Contact me:
 
 📧 Email: [popovychjob@gmail.com](mailto:popovychjob@gmail.com)  
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/roman-popovych-17733b254/)  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/forze-dev/)  
 💬 Telegram: [Telegram](https://t.me/forzeoldgg)
 
 **Ready to transform your business tasks into effective technological solutions! Let's create something outstanding together.**
